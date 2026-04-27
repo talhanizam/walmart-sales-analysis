@@ -1,73 +1,78 @@
--- 1. TOP stores by revenue
-  
-  -- Finding & Insights
-Top 3 stores are 20,4,14
-The difference between them is small with difference between store 20 and 4 being less than 1%
-Store 14 is slightly behind with 4% lower that store 20
-  
-  -- Recommendation
-  Focus inventory and marketing on Store 20 and 4 as key revenue drivers  
-  Use targeted promotions to push Store 4 or 20 ahead and maximize gains  
-  Improve Store 14 by applying strategies used in top stores  
-  Identify and replicate success factors from top stores to others  
-  Reduce reliance on a few stores by improving mid-performing locations  
+# Insights & Analysis
 
--- 2. Sales trend over time
-  
-  --Finding & Insights
-Sales trend does not gradually increase or decrease over the year (43M to 50M) but does shows spikes during late november and december
-Sales increase sharply during major holiday periods such as 
-Thanksgiving and Christmas, with peaks reaching over 80M—nearly 
-60–70% higher than average weeks.
-A noticeable drop occurs immediately after the holiday season.
-  
-  --Recommendation
-Plan extra promotions around christmas and thanksgiving.
-Optimize cost management due to demand drop post holiday.
+## 1. Top Stores by Revenue
 
+### Finding & Insights
+- Top 3 stores: 20, 4, 14  
+- Store 20 and 4 have <1% difference (very close competition)  
+- Store 14 is ~4% lower than Store 20  
 
--- 3. Impact of holiday on revenue
-  
-  --Finding & Insights
-Sales does increase over 7-8% higher when comparing to non-holiday days indicating a moderate but consistent increase in demand
-While this appear moderate major holidays like christmas, thanksgiving drive significantly higher sales which are diluted when considering all the holidays
-  
-  --Recommendation
-To Increase the inventory and resources during major holidays.
-Focus strategic planning on major holidays and not treat all the holidays equally.
+### Recommendations
+- Focus inventory and marketing on Store 20 and 4  
+- Use promotions to maximize gains between them  
+- Improve Store 14 using strategies from top stores  
+- Replicate success factors across other stores  
 
--- 4. Peak sales week
-  
-  --Finding & Insights
-The highest sales occur during late december christmas period and late november during black friday and thanksgiving
-  
-  --Recommendation
-Significantly increase inventory and staffing 2–3 weeks before late November and December peaks
-Prioritize promotions and supply chain readiness for these periods
-Plan post-holiday demand drop (late Dec / early Jan)
+---
 
--- 5. Monthly sales
-  
-  --Finding & Insights
-Sales peak in december, november with december having 1.28M average but is lowest in january around 0.92M
-Mid year sales remain stable indicating consistent baseline demand.
-  
-  --Recommendations
-Increase inventory and workforce for November–December
-Plan cost control strategies for January slowdown
+## 2. Sales Trend Over Time
 
--- 6. Impact of Holiday on Stores 
-  
-  --Finding & Insights
-Holiday impact varies significantly across stores in both absolute and percentage terms.
-While large stores (eg:10,20) show the highest increase in sales
-Smaller stores like 7, 35 exhibit the highest percentage growth in sales like with increase of 19%, Which indicates smaller stores are more sensitive to seasonal changes
-Some stores like 37, 44 show negative lift that is they perform worse during holiday
-  
-  --Recommendations 
-- Target high-percentage-lift stores with aggressive holiday campaigns
-- Prioritize high-absolute-lift stores for revenue maximization
-- Investigate underperforming stores for operational or demand issues
+### Finding & Insights
+- Sales are stable (~43M–50M) across most weeks  
+- Major spikes occur in late November and December  
+- Peaks reach ~80M (60–70% higher than average)  
+- Sales drop sharply post-holidays  
 
+### Recommendations
+- Plan promotions around Thanksgiving and Christmas  
+- Prepare for demand drop after holidays  
 
+---
 
+## 3. Holiday Impact on Revenue
+
+### Finding & Insights
+- Holiday weeks show ~7–8% higher sales on average  
+- Major holidays drive significantly higher spikes  
+
+### Recommendations
+- Focus on major holidays rather than all holidays  
+- Increase inventory and resources during peak periods  
+
+---
+
+## 4. Peak Sales Weeks
+
+### Finding & Insights
+- Highest sales occur in late November and December  
+
+### Recommendations
+- Increase inventory and staffing 2–3 weeks before peak  
+- Strengthen supply chain for high-demand periods  
+
+---
+
+## 5. Monthly Sales
+
+### Finding & Insights
+- December is highest (~1.28M avg), January lowest (~0.92M)  
+- Mid-year sales are stable  
+
+### Recommendations
+- Prepare for peak season in Nov–Dec  
+- Control costs during January slowdown  
+
+---
+
+## 6. Store-Level Holiday Impact
+
+### Finding & Insights
+- Holiday impact varies across stores  
+- Large stores drive higher absolute revenue  
+- Smaller stores show higher % growth (~19%)  
+- Some stores show negative lift  
+
+### Recommendations
+- Target high-growth stores with campaigns  
+- Focus high-revenue stores for scale  
+- Investigate underperforming stores  

@@ -27,5 +27,6 @@ Performed end-to-end sales analysis on Walmart data using SQL to identify trends
 - Dataset: `/data/Walmart.csv`
 - Insights: `insights.md`
 
-## Next Steps
-- Build Power BI dashboard for visualization
+## Dashboard Preview
+
+![Dashboard](dashboard.png)

@@ -29,4 +29,5 @@ Performed end-to-end sales analysis on Walmart data using SQL to identify trends
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1121" height="647" alt="Dashboard_SQL" src="https://github.com/user-attachments/assets/aee5fa8f-08d3-48c1-a7a6-a5b3caa56dfe" />
+
